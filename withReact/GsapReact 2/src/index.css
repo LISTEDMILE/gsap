@@ -1,0 +1,31 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family:gilroy;
+  color:white;
+}
+body{
+  height:100%;
+  width:100%;
+  background-color: black;
+}
+
+main{
+  height:100vh;
+  width:100%;
+  padding:40px;
+}
+
+.box{
+  height: 300px;
+  width:300px;
+  background-color: crimson;
+  border-radius: 10px;
+}
+
+main button{
+  font-size: larger;
+  padding:10px 30px;
+  background: linear-gradient(rgb(49, 202, 164),rgb(8, 116, 124));
+}
